@@ -1,0 +1,38 @@
+---
+title: "Control4"
+author: "Roman & Vicente"
+date: "12/12/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Lectura de datos
+```{r}
+data_raw <- read.csv(file = "datos.fit")
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
