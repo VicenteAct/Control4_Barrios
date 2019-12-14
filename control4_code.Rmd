@@ -11,9 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Lectura de datos
 ```{r}
-data_raw <- read.csv(file = "datos.fit")
+data_raw <- read.csv(file = "datosfit.csv")
+```
 
-
+Visualización a priori de los datos
+```{r}
+#
 ```
 
 
